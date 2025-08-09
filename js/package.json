@@ -22,7 +22,7 @@
     "npmlog": "^7.0.1",
     "prettier": "^3.0.3",
     "terser": "^5.31.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.8.3"
   },
   "scripts": {
     "prepare": "tsc --build scripts",
