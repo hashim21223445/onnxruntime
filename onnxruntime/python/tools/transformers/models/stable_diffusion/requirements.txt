@@ -1,5 +1,5 @@
 diffusers==0.28.0
-transformers==4.41.2
+transformers==4.53.0
 numpy>=1.24.1
 accelerate
 onnx==1.16.0
@@ -16,3 +16,4 @@ safetensors
 invisible_watermark
 # newer version of opencv-python migth encounter module 'cv2.dnn' has no attribute 'DictValue' error
 opencv-python==4.8.0.74
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
