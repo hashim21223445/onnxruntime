@@ -5,10 +5,10 @@ psutil
 py-cpuinfo
 py3nvml
 packaging
-transformers >= 4.18.0
+transformers>=4.53.0
 scipy
 sentencepiece
 pillow
 
 # please follow https://pytorch.org/ to install PyTorch for your OS
-torch >= 1.13.1
+torch>=2.8.0
