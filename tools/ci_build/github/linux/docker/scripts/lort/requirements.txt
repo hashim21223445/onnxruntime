@@ -26,3 +26,4 @@ lintrunner
 setuptools ; python_version >= "3.12"
 packaging
 optree>=0.11.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
